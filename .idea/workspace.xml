@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e779acf-a13a-43a6-933b-e943bf2120b3" name="Changes" comment="" />
+    <list default="true" id="7e779acf-a13a-43a6-933b-e943bf2120b3" name="Changes" comment="updating text t" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +17,9 @@
         <option name="url" value="https://github.com/Humdinger93/TestData.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EZwMvHYV6VH2Mt98PNTmjZtLgn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -39,6 +42,28 @@
       <option name="presentableId" value="Default" />
       <updated>1662816371032</updated>
     </task>
+    <task id="LOCAL-00001" summary="updating text">
+      <created>1662824802935</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662824802936</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updating text t">
+      <created>1662824813488</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662824813488</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updating text t">
+      <created>1662825056708</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662825056708</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -51,5 +76,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updating text" />
+    <MESSAGE value="updating text t" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating text t" />
   </component>
 </project>
